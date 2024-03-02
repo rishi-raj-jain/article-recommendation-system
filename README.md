@@ -1,6 +1,6 @@
 <!-- ![](https://upstash.com/blog/rag-chatbot-upstash/opengraph-image) -->
 
-# Building an Article Recommendation System with Remix, LangChain, OpenAI and Upstash
+# Building an Article Recommendation System with Upstash and OpenAI
 
 <p>
   <a href="#introduction"><strong>Introduction</strong></a> ·
