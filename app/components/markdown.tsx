@@ -14,7 +14,7 @@ const Markdown = ({ message, index }: MarkdownProps) => {
           return <p className="mb-2 last:mb-0">{children}</p>
         },
       }}
-      className={clsx('w-full mt-4 pt-4 prose break-words dark:prose-invert prose-p:leading-relaxed prose-pre:p-0', index !== 0 && 'border-t')}
+      className={clsx('w-full mt-4 pt-4 prose break-words prose-p:leading-relaxed prose-pre:p-0', index !== 0 && 'border-t')}
     >
       {message}
     </ReactMarkdown>
