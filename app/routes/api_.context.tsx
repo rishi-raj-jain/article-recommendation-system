@@ -1,6 +1,6 @@
 import { Document } from 'langchain/document'
 import { ActionFunctionArgs } from '@remix-run/node'
-import vectorServer from '~/lib/vector/store.server'
+import vectorServer from '~/lib/upstash/vectorStore.server'
 import { CheerioWebBaseLoader } from 'langchain/document_loaders/web/cheerio'
 
 export const action = async ({ request }: ActionFunctionArgs) => {

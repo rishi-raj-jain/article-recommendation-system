@@ -1,6 +1,6 @@
-import vectorServer from '~/lib/vector/store.server'
 import { OpenAIStream, StreamingTextResponse } from 'ai'
 import type { ActionFunctionArgs } from '@remix-run/node'
+import vectorServer from '~/lib/upstash/vectorStore.server'
 import completionServer from '~/lib/openai/completion.server'
 
 export const action = async ({ request }: ActionFunctionArgs) => {
