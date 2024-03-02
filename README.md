@@ -10,7 +10,7 @@
 
 ## Introduction
 
-Learn how to build an article recommendation system using Upstash.
+Learn how to build an article recommendation system using Upstash and OpenAI.
 
 ## Tech Stack + Features
 
@@ -22,7 +22,7 @@ Learn how to build an article recommendation system using Upstash.
 
 ### Database
 
-- [Upstash](https://upstash.com) - Serverless database platform. We're using both Upstash Vector for storing vector embeddings and metadata.
+- [Upstash](https://upstash.com) - Serverless database platform. We're using Upstash Vector as a vector store for embeddings and metadata.
 
 ### Artificial Intelligence
 
