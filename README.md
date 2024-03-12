@@ -38,6 +38,10 @@ Learn how to build an article recommendation system using Upstash and OpenAI.
 
 - [Prettier](https://prettier.io/) – Opinionated code formatter for consistent code style.
 
+### Platofrms
+
+- [Fly.io](https://fly.io) - A platform for running full stack apps and databases close to your users.
+
 ## Author
 
 - Rishi Raj Jain ([@rishi_raj_jain_](https://twitter.com/rishi_raj_jain_))
