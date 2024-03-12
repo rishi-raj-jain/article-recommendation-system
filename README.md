@@ -1,4 +1,4 @@
-<!-- ![](https://upstash.com/blog/rag-chatbot-upstash/opengraph-image) -->
+![](https://upstash.com/blog/article-recommendation-system/opengraph-image)
 
 # Building an Article Recommendation System with Upstash and OpenAI
 
